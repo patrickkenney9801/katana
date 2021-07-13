@@ -18,6 +18,7 @@ set(sources
         src/Random.cpp
         src/Result.cpp
         src/Plugin.cpp
+        src/ProgressTracer.cpp
         src/Strings.cpp
         src/URI.cpp
 )
